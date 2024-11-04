@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import '/app/globals.css';
 import Navbar from './navbar/navbar';
 
-
 export const metadata: Metadata = {
   title: "Prosty CRM",
 };
